@@ -1,4 +1,0 @@
-Card holder name: Denis 
-Card number: 7467468491232325
-Card pin: 1462
-Card csv: 929
